@@ -14,7 +14,7 @@ npx create-react-app frontend
 The resulting structure will then look something like this:
 ```
 |
-|- api
+|- api for <hello>
 |- frontend
 |- README.md
 ```
