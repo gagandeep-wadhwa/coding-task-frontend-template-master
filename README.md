@@ -2,7 +2,9 @@
 
 This template contains a folder with a very basic implementation of a GraphQL server (with Apollo).
 
-## Adding a frontend
+## Adding a <frontend>
+
+<This is HTML>
 
 One very easy way to add a React JS frontend application is to use create-react-app:
 ```
